@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">aec364afdb1ed3403fb85275ca9619e6</block>
+        <connected_to>00df2fc0-92b7-42d1-ad68-48c71541b807</connected_to>
+        <display_text/>
+        <flow display_value="Safety Approval">18c2242fdb1ed3403fb85275ca9619f8</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-31 18:21:23</sys_created_on>
+        <sys_id>e2c364afdb1ed3403fb85275ca9619e8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety15">b2ca18afdbdad3403fb85275ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">b2ca18afdbdad3403fb85275ca9619c1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_e2c364afdb1ed3403fb85275ca9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-31 18:21:27</sys_updated_on>
+        <ui_id>3a880049-d35b-46de-8f30-644741023be7</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=e2c364afdb1ed3403fb85275ca9619e8"/>
+</record_update>
